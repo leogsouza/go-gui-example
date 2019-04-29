@@ -1,0 +1,10 @@
+github.com/akavel/rsrc v0.8.0 h1:zjWn7ukO9Kc5Q62DOJCcxGpXC18RawVtYAGdz2aLlfw=
+github.com/akavel/rsrc v0.8.0/go.mod h1:uLoCtb9J+EyAqh+26kdrTgmzRBFPGOolLWKpdxkKq+c=
+github.com/lxn/walk v0.0.0-20190429130433-65b23005e122 h1:IlKIn6THbSOhvKVrkFKLJH/+PhWrdV4+XieT7BAMG98=
+github.com/lxn/walk v0.0.0-20190429130433-65b23005e122/go.mod h1:E23UucZGqpuUANJooIbHWCufXvOcT6E7Stq81gU+CSQ=
+github.com/lxn/win v0.0.0-20190429091805-45c59655ac45 h1:DJJrp4iIY91VgIgOsY3ssXE9X44rmNpZDvJ3iPD00xQ=
+github.com/lxn/win v0.0.0-20190429091805-45c59655ac45/go.mod h1:jACzEp9RV7NhfPJQkiCNTteU4nkZZVlvkNpYtVOZPfE=
+golang.org/x/sys v0.0.0-20190429094411-2cc0cad0ac78 h1:ddnrbGOgFiC0zV+uaYoSkl0f47vnII6Zu426zWQrWkg=
+golang.org/x/sys v0.0.0-20190429094411-2cc0cad0ac78/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+gopkg.in/Knetic/govaluate.v3 v3.0.0 h1:18mUyIt4ZlRlFZAAfVetz4/rzlJs9yhN+U02F4u1AOc=
+gopkg.in/Knetic/govaluate.v3 v3.0.0/go.mod h1:csKLBORsPbafmSCGTEh3U7Ozmsuq8ZSIlKk1bcqph0E=
